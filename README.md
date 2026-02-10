@@ -16,7 +16,7 @@
 
 I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications. Currently completing my Master's in Computer Science, I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics.
 
-When I'm not architecting microservices or training RAG pipelines, you can find me **lifting weights 🏋️‍♀️** (always chasing a PR!), **singing cover songs 🎤**, or exploring my roots from **Nepal 🇳🇵**.
+When I'm not architecting microservices or training RAG pipelines, you can find me **lifting weights, **singing cover songs 🎤**, or exploring my roots from **Nepal 🇳🇵**.
 
 ---
 
