@@ -14,9 +14,9 @@
   <h3>🚀 Engineering Scalable Systems & AI Solutions</h3>
 </div>
 
-[cite_start]I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications[cite: 5, 29]. [cite_start]Currently completing my Master's in Computer Science [cite: 5][cite_start], I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics[cite: 32, 26].
+I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications. Currently completing my Master's in Computer Science, I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics.
 
-[cite_start]When I'm not architecting microservices or training RAG pipelines, you can find me **singing cover songs 🎤** or exploring my roots from **Nepal 🇳🇵**[cite: 38].
+When I'm not architecting microservices or training RAG pipelines, you can find me **singing cover songs 🎤** or exploring my roots from **Nepal 🇳🇵**.
 
 ---
 
@@ -27,7 +27,7 @@
 | **Governor's Giant Vision Competition 2026** | **NSF Great Plains I-Corps** |
 |:---:|:---:|
 | <img src="https://img.shields.io/badge/Finalist-Gold?style=for-the-badge&logo=trophy&logoColor=white&color=FFD700" /> | <img src="https://img.shields.io/badge/Researcher-Commercialization-blue?style=for-the-badge&logo=nsf&logoColor=white" /> |
-| [cite_start]Selected as a **Finalist** for **DentiMap**, an AI-driven dental screening tool utilizing RAG pipelines[cite: 26]. | [cite_start]Executed technology commercialization and market validation for advanced AI research[cite: 28]. |
+| Selected as a **Finalist** for **DentiMap**, an AI-driven dental screening tool utilizing RAG pipelines. | Executed technology commercialization and market validation for advanced AI research. |
 
 ---
 
@@ -51,9 +51,9 @@
 
 | **Project** | **Description** | **Stack** |
 |:---:|:---|:---|
-| **DentiMap (Finalist)** | **AI Diagnostic Tool:** Architected a RAG-based pipeline using LLMs to visualize diagnostic results. [cite_start]Selected as a finalist in the SD Governor's Giant Vision Competition[cite: 26]. | `LLMs` `RAG` `React` `Tailwind` |
-| **Distributed Deep Learning** | **High-Performance Computing:** Designed scalable infrastructure using PyTorch DDP & NCCL. [cite_start]Reduced execution time by **50%** (60s → 30s) via strategic batch scaling[cite: 43, 44]. | `PyTorch DDP` `NCCL` `Distributed Systems` |
-| **Intelligent Hybrid Search** | [cite_start]**Information Retrieval:** Architected a system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion[cite: 45, 46]. | `Streamlit` `Transformers` `NLTK` `RRF` |
+| **DentiMap (Finalist)** | **AI Diagnostic Tool:** Architected a RAG-based pipeline using LLMs to visualize diagnostic results. Selected as a finalist in the SD Governor's Giant Vision Competition. | `LLMs` `RAG` `React` `Tailwind` |
+| **Distributed Deep Learning** | **High-Performance Computing:** Designed scalable infrastructure using PyTorch DDP & NCCL. Reduced execution time by **50%** (60s → 30s) via strategic batch scaling. | `PyTorch DDP` `NCCL` `Distributed Systems` |
+| **Intelligent Hybrid Search** | **Information Retrieval:** Architected a system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion. | `Streamlit` `Transformers` `NLTK` `RRF` |
 
 ---
 
@@ -63,9 +63,9 @@
 <summary><b>🧪 Graduate Research Assistant @ University of South Dakota (Current)</b></summary>
 <br>
 <ul>
- [cite_start]<li><b>AI Diagnostics:</b> Developed DentiMap, leveraging RAG pipelines and Computer Vision[cite: 26].</li>
- [cite_start]<li><b>NSF I-Corps Researcher:</b> Led market validation and technology commercialization for advanced AI research[cite: 28].</li>
- [cite_start]<li><b>Academic Publications:</b> Leading reviews on Quantum Computing and Endocrinology methodologies[cite: 27].</li>
+ <li><b>AI Diagnostics:</b> Developed DentiMap, leveraging RAG pipelines and Computer Vision.</li>
+ <li><b>NSF I-Corps Researcher:</b> Led market validation and technology commercialization for advanced AI research.</li>
+ <li><b>Academic Publications:</b> Leading reviews on Quantum Computing and Endocrinology methodologies.</li>
 </ul>
 </details>
 
@@ -73,9 +73,9 @@
 <summary><b>💻 Full-Stack Software Engineer @ Delta V Logics & Solutions</b></summary>
 <br>
 <ul>
- [cite_start]<li>Engineered distributed systems handling <b>100k+ concurrent users</b> using Python/Django[cite: 32].</li>
- [cite_start]<li>Reduced deployment time by <b>40%</b> via CI/CD pipelines (GitHub Actions/Docker) on Azure[cite: 33].</li>
- [cite_start]<li>Boosted system reliability by <b>35%</b> through robust PyTest frameworks[cite: 34].</li>
+ <li>Engineered distributed systems handling <b>100k+ concurrent users</b> using Python/Django.</li>
+ <li>Reduced deployment time by <b>40%</b> via CI/CD pipelines (GitHub Actions/Docker) on Azure.</li>
+ <li>Boosted system reliability by <b>35%</b> through robust PyTest frameworks.</li>
 </ul>
 </details>
 
@@ -83,8 +83,8 @@
 <summary><b>📱 Mobile App Developer @ Code Himalaya</b></summary>
 <br>
 <ul>
- [cite_start]<li>Led end-to-end mobile cycles with <b>Flutter & Dart</b>[cite: 39].</li>
- [cite_start]<li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing[cite: 39, 41].</li>
+ <li>Led end-to-end mobile cycles with <b>Flutter & Dart</b>.</li>
+ <li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing.</li>
 </ul>
 </details>
 
@@ -93,10 +93,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/qubeena07">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff" alt="Dipika's Stats" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/qubeena07">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=html,css&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff&layout=compact" alt="Dipika's Languages" />
   </a>
 </div>
@@ -104,7 +104,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=000000" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qubeena07&theme=dark&background=000000" alt="Streak Stats" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
   <a href="mailto:dipika.ranabhat2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/Dipika Ranabhat">
+  <a href="https://www.linkedin.com/in/dipika-ranabhat-734525205/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
