@@ -1,30 +1,33 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:282828&height=300&section=header&text=Dipika%20Ranabhat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Robust%20Software%20%26%20Machine%20Learning%20Systems&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Dipika%20Ranabhat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Machine%20Learning%20%7C%20AI%20Research&descAlignY=51&descAlign=62" width="100%"/>
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Master's+Student+%40+USD;AI+%26+Machine+Learning+Researcher;Full-Stack+Software+Engineer;Governor's+Giant+Vision+Finalist+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&lines=Master's+Student+%40+USD;Full-Stack+Software+Engineer;NSF+I-Corps+Researcher;Governor's+Giant+Vision+Finalist+🏆" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🚀 About Me</h3>
+  <h3>🚀 Engineering Scalable Systems & AI Solutions</h3>
 </div>
 
-I am a **Computer Science Master's Candidate** and **Graduate Research Assistant** deeply embedded in the intersection of **AI Diagnostics**, **Distributed Systems**, and **Full-Stack Engineering**. 
+I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications. [cite_start]Currently completing my Master's in Computer Science[cite: 5], I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics.
 
-Currently based in **Vermillion, SD**, I specialize in translating complex research into deployable, high-impact products. When I'm not training models or optimizing microservices, you can find me **lifting weights 🏋️‍♀️** (aiming for that next PR!), **recording cover songs 🎤**, or exploring my roots from **Nepal 🇳🇵**.
+When I'm not architecting microservices or training RAG pipelines, you can find me **lifting weights 🏋️‍♀️** (always chasing a PR!), **singing cover songs 🎤**, or exploring my roots from **Nepal 🇳🇵**.
 
 ---
 
 <div align="center">
-  <h2>🏆 Recent Achievement</h2>
-  <img src="https://img.shields.io/badge/Finalist-Governor's%20Giant%20Vision%20Competition%202026-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Governor's Giant Vision Finalist" />
-  <p>Selected as a finalist for <b>DentiMap</b>, an AI-driven dental screening tool utilizing RAG pipelines and Computer Vision.</p>
+  <h2>🏆 Key Achievements</h2>
 </div>
+
+| **Governor's Giant Vision Competition 2026** | **NSF Great Plains I-Corps** |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/Finalist-Gold?style=for-the-badge&logo=trophy&logoColor=white&color=FFD700" /> | <img src="https://img.shields.io/badge/Researcher-Commercialization-blue?style=for-the-badge&logo=nsf&logoColor=white" /> |
+| [cite_start]Selected as a **Finalist** for **DentiMap**, an AI-driven dental screening tool utilizing RAG pipelines[cite: 26]. | [cite_start]Executed technology commercialization and market validation for advanced AI research[cite: 28]. |
 
 ---
 
@@ -44,15 +47,25 @@ Currently based in **Vermillion, SD**, I specialize in translating complex resea
 
 ---
 
+## 🔮 Featured Projects
+
+| **Project** | **Description** | **Stack** |
+|:---:|:---|:---|
+| **DentiMap (Finalist)** | **AI Diagnostic Tool:** Architected a RAG-based pipeline using LLMs to visualize diagnostic results. [cite_start]Selected as a finalist in the SD Governor's Giant Vision Competition[cite: 26]. | `LLMs` `RAG` `React` `Tailwind` |
+| **Distributed Deep Learning** | **High-Performance Computing:** Designed scalable infrastructure using PyTorch DDP & NCCL. [cite_start]Reduced execution time by **50%** (60s → 30s) via strategic batch scaling[cite: 43]. | `PyTorch DDP` `NCCL` `Distributed Systems` |
+| **Intelligent Hybrid Search** | [cite_start]**Information Retrieval:** Architected a system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion[cite: 45]. | `Streamlit` `Transformers` `NLTK` `RRF` |
+
+---
+
 ## 💼 Professional Experience
 
 <details>
 <summary><b>🧪 Graduate Research Assistant @ University of South Dakota (Current)</b></summary>
 <br>
 <ul>
- <li><b>DentiMap:</b> Architected a RAG-based AI diagnostic pipeline, leading to selection as a finalist in the Giant Vision Competition.</li>
- <li><b>NSF I-Corps:</b> Executed technology commercialization and market validation for advanced AI research.</li>
- <li><b>Academic Review:</b> Leading research papers on Quantum Computing methodologies and Endocrinology.</li>
+ <li><b>AI Diagnostics:</b> Developed DentiMap, leveraging RAG pipelines and Computer Vision.</li>
+ [cite_start]<li><b>NSF I-Corps Researcher:</b> Led market validation and technology commercialization for AI research[cite: 28].</li>
+ [cite_start]<li><b>Academic Publications:</b> Leading reviews on Quantum Computing and Endocrinology methodologies[cite: 27].</li>
 </ul>
 </details>
 
@@ -60,9 +73,9 @@ Currently based in **Vermillion, SD**, I specialize in translating complex resea
 <summary><b>💻 Full-Stack Software Engineer @ Delta V Logics & Solutions</b></summary>
 <br>
 <ul>
- <li>Designed distributed systems handling <b>100k+ concurrent users</b> using Python/Django.</li>
- <li>Reduced deployment time by <b>40%</b> via CI/CD pipelines (GitHub Actions/Docker) on Azure.</li>
- <li>Improved system reliability by <b>35%</b> through robust PyTest frameworks.</li>
+ [cite_start]<li>Engineered distributed systems handling <b>100k+ concurrent users</b> using Python/Django[cite: 32].</li>
+ [cite_start]<li>Reduced deployment time by <b>40%</b> via CI/CD pipelines (GitHub Actions/Docker) on Azure[cite: 33].</li>
+ [cite_start]<li>Boosted system reliability by <b>35%</b> through robust PyTest frameworks[cite: 34].</li>
 </ul>
 </details>
 
@@ -70,19 +83,10 @@ Currently based in **Vermillion, SD**, I specialize in translating complex resea
 <summary><b>📱 Mobile App Developer @ Code Himalaya</b></summary>
 <br>
 <ul>
- <li>Led end-to-end mobile cycles with <b>Flutter & Dart</b>.</li>
- <li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing.</li>
+ [cite_start]<li>Led end-to-end mobile cycles with <b>Flutter & Dart</b>[cite: 39].</li>
+ [cite_start]<li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing[cite: 41].</li>
 </ul>
 </details>
-
----
-
-## 🔮 Featured Projects
-
-| **Project** | **Description** | **Tech** |
-|:---:|:---|:---|
-| **Distributed Deep Learning System** | Designed scalable infrastructure using PyTorch DDP & NCCL. Reduced execution time by **50%** (60s → 30s) via strategic batch scaling. | `PyTorch DDP` `NCCL` `Distributed Systems` |
-| **Intelligent Hybrid Search** | Architected a retrieval system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion. | `Streamlit` `Transformers` `NLTK` `RRF` |
 
 ---
 
