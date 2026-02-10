@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=300&section=header&text=Dipika%20Ranabhat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20Intelligence.%20Building%20Scalable%20Systems.&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:282828&height=300&section=header&text=Dipika%20Ranabhat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20Robust%20Software%20%26%20Machine%20Learning%20Systems&descAlignY=51&descAlign=62" width="100%"/>
   
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Master's+Student+%40+USD;AI+%26+Machine+Learning+Researcher;Full-Stack+Software+Engineer;Governor's+Giant+Vision+Finalist+🏆" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Master's+Student+%40+USD;AI+%26+Machine+Learning+Researcher;Full-Stack+Software+Engineer;Governor's+Giant+Vision+Finalist+🏆" alt="Typing SVG" />
   </a>
 </div>
 
