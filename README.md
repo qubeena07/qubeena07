@@ -14,9 +14,9 @@
   <h3>🚀 Engineering Scalable Systems & AI Solutions</h3>
 </div>
 
-I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications. Currently completing my Master's in Computer Science, I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics.
+[cite_start]I am a **Software Engineer** and **AI Researcher** capable of bridging the gap between theoretical Machine Learning and production-grade applications[cite: 5, 29]. [cite_start]Currently completing my Master's in Computer Science [cite: 5][cite_start], I specialize in building distributed systems, optimizing backend performance, and developing novel AI diagnostics[cite: 32, 26].
 
-When I'm not architecting microservices or training RAG pipelines, you can find me **lifting weights, **singing cover songs 🎤**, or exploring my roots from **Nepal 🇳🇵**.
+[cite_start]When I'm not architecting microservices or training RAG pipelines, you can find me **singing cover songs 🎤** or exploring my roots from **Nepal 🇳🇵**[cite: 38].
 
 ---
 
@@ -52,8 +52,8 @@ When I'm not architecting microservices or training RAG pipelines, you can find 
 | **Project** | **Description** | **Stack** |
 |:---:|:---|:---|
 | **DentiMap (Finalist)** | **AI Diagnostic Tool:** Architected a RAG-based pipeline using LLMs to visualize diagnostic results. [cite_start]Selected as a finalist in the SD Governor's Giant Vision Competition[cite: 26]. | `LLMs` `RAG` `React` `Tailwind` |
-| **Distributed Deep Learning** | **High-Performance Computing:** Designed scalable infrastructure using PyTorch DDP & NCCL. [cite_start]Reduced execution time by **50%** (60s → 30s) via strategic batch scaling[cite: 43]. | `PyTorch DDP` `NCCL` `Distributed Systems` |
-| **Intelligent Hybrid Search** | [cite_start]**Information Retrieval:** Architected a system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion[cite: 45]. | `Streamlit` `Transformers` `NLTK` `RRF` |
+| **Distributed Deep Learning** | **High-Performance Computing:** Designed scalable infrastructure using PyTorch DDP & NCCL. [cite_start]Reduced execution time by **50%** (60s → 30s) via strategic batch scaling[cite: 43, 44]. | `PyTorch DDP` `NCCL` `Distributed Systems` |
+| **Intelligent Hybrid Search** | [cite_start]**Information Retrieval:** Architected a system merging BM25 (sparse) and Sentence Transformers (dense) with custom Reciprocal Rank Fusion[cite: 45, 46]. | `Streamlit` `Transformers` `NLTK` `RRF` |
 
 ---
 
@@ -63,8 +63,8 @@ When I'm not architecting microservices or training RAG pipelines, you can find 
 <summary><b>🧪 Graduate Research Assistant @ University of South Dakota (Current)</b></summary>
 <br>
 <ul>
- <li><b>AI Diagnostics:</b> Developed DentiMap, leveraging RAG pipelines and Computer Vision.</li>
- [cite_start]<li><b>NSF I-Corps Researcher:</b> Led market validation and technology commercialization for AI research[cite: 28].</li>
+ [cite_start]<li><b>AI Diagnostics:</b> Developed DentiMap, leveraging RAG pipelines and Computer Vision[cite: 26].</li>
+ [cite_start]<li><b>NSF I-Corps Researcher:</b> Led market validation and technology commercialization for advanced AI research[cite: 28].</li>
  [cite_start]<li><b>Academic Publications:</b> Leading reviews on Quantum Computing and Endocrinology methodologies[cite: 27].</li>
 </ul>
 </details>
@@ -84,7 +84,7 @@ When I'm not architecting microservices or training RAG pipelines, you can find 
 <br>
 <ul>
  [cite_start]<li>Led end-to-end mobile cycles with <b>Flutter & Dart</b>[cite: 39].</li>
- [cite_start]<li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing[cite: 41].</li>
+ [cite_start]<li>Prevented app crashes by 50% and improved responsiveness by 40% through rigorous A/B testing[cite: 39, 41].</li>
 </ul>
 </details>
 
