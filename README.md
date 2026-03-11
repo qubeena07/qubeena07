@@ -94,10 +94,10 @@ When I'm not architecting microservices or training RAG pipelines, you can find 
 
 <div align="center">
   <a href="https://github.com/qubeena07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff" alt="Dipika's Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qubeena07&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff" alt="Dipika's Stats" />
   </a>
   <a href="https://github.com/qubeena07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide=html,css&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff&layout=compact" alt="Dipika's Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qubeena07&hide=html,css&title_color=000000&text_color=000000&icon_color=222222&bg_color=ffffff&layout=compact" alt="Dipika's Languages" />
   </a>
 </div>
 
