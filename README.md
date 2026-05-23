@@ -22,19 +22,7 @@
 
 ## About
 
-Software Engineer and AI/ML Engineer specializing in **RAG pipelines**, **agentic AI systems**, **distributed backend architecture**, and **full-stack product engineering**. Currently completing a Master's in Computer Science at the University of South Dakota, with research focused on AI diagnostics, self-correcting retrieval systems, and LLM evaluation.
-
-```python
-dipika = {
-    "currently"   : "M.S. Computer Science @ University of South Dakota · GPA 4.0",
-    "focus"       : ["RAG Systems", "Agentic AI", "Full-Stack Engineering", "Distributed Systems"],
-    "building"    : ["CARA: Self-Correcting RAG", "BizBot: AI Receptionist"],
-    "open_source" : ["microsoft / agent-governance-toolkit", "HuggingFace Spaces"],
-    "writing"     : "medium.com/@dipika.ranabhat2001",
-    "portfolio"   : "ranabhatdipika.com.np",
-    "reach_me"    : "dipika.ranabhat2001@gmail.com",
-}
-```
+Software Engineer and AI/ML Engineer specializing in **RAG pipelines**, **agentic AI systems**, **distributed backend architecture**, and **full-stack product engineering**. Currently completed a Master's in Computer Science at the University of South Dakota, with research focused on AI diagnostics, self-correcting retrieval systems, and LLM evaluation.
 
 ---
 
