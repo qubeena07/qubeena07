@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Dipika%20Ranabhat&fontSize=68&animation=fadeIn&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20CS%20Researcher&descSize=17&descAlignY=62&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=M.S.+Computer+Science+%40+University+of+South+Dakota+%7C+GPA+4.0;Governor's+Giant+Vision+Finalist+%E2%80%94+DentiMap+AI+Platform;Building+Self-Correcting+RAG+%26+Agentic+Systems;Full-Stack+Engineer+%7C+100k%2B+Concurrent+Users;NSF+I-Corps+Researcher+%7C+AI+Commercialization;Open+Source+Contributor+%E2%80%94+Microsoft+%C2%B7+HuggingFace" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=M.S.+Computer+Science+%40+USD+%7C+GPA+4.0;Governor's+Giant+Vision+Finalist+%7C+DentiMap+AI+Platform;Self-Correcting+RAG+%26+Agentic+Systems;Full-Stack+Engineer+%7C+100k%2B+Concurrent+Users;NSF+I-Corps+Researcher+%7C+AI+Commercialization;Open+Source+Contributor+%7C+Microsoft+%26+HuggingFace" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## About
 
-Software Engineer and AI/ML Engineer specializing in **RAG pipelines**, **agentic AI systems**, **distributed backend architecture**, and **full-stack product engineering**. Currently completed a Master's in Computer Science at the University of South Dakota, with research focused on AI diagnostics, self-correcting retrieval systems, and LLM evaluation.
+Software Engineer and AI/ML Engineer with a completed Master's in Computer Science (GPA 4.0) from the University of South Dakota. Specializes in **RAG pipelines**, **agentic AI systems**, **distributed backend architecture**, and **full-stack product engineering** from HIPAA-compliant clinical tools to microservices handling 100k+ concurrent users.
 
 ---
 
@@ -32,7 +32,7 @@ Software Engineer and AI/ML Engineer specializing in **RAG pipelines**, **agenti
 
 | Governor's Giant Vision 2026 | NSF Great Plains I-Corps | GitHub Pull Shark | GitHub Quickdraw |
 |:---:|:---:|:---:|:---:|
-| **Finalist** — DentiMap AI Dental Screening Platform | **Participant** — AI Commercialization & Market Validation | Merged PRs across multiple repos | Closed issues & PRs at speed |
+| **Finalist** · DentiMap AI Dental Screening Platform | **Participant** · AI Commercialization and Market Validation | Merged PRs across multiple repositories | Closed issues and PRs at speed |
 
 </div>
 
@@ -122,17 +122,17 @@ Drop-in AI receptionist that ingests business data via RAG and integrates into a
 ### 🔍 [AI Code Review Tool](https://github.com/qubeena07/AI-Code-Review-Tool)
 Automated LLM-Powered PR Reviews
 
-Listens for GitHub PR webhooks, verifies via HMAC, queues with BullMQ + Redis, routes diffs to LLMs for security and logic review. Posts inline GitHub comments with Slack/email notifications and an analytics dashboard tracking vulnerability scores.
+Listens for GitHub PR webhooks, verifies via HMAC, queues with BullMQ + Redis, routes diffs to LLMs for security and logic review. Posts inline GitHub comments with Slack and email notifications plus an analytics dashboard tracking vulnerability scores.
 
 `TypeScript` `BullMQ` `Redis` `PostgreSQL` `Claude/Gemini APIs`
 
 </td>
 <td width="50%" valign="top">
 
-### 🦷 [DentiMap](https://github.com/qubeena07) (Governor's Finalist 🏆)
-**AI Clinical Diagnostic Platform**
+### 🦷 [DentiMap](https://github.com/qubeena07) · Governor's Finalist 🏆
+AI Clinical Diagnostic Platform
 
-HIPAA-compliant dental screening tool with RAG pipelines and GPT-4 vision. Next.js frontend handling protected health information with real-time AI feedback. Cut manual interpretation time by **~60%**. AWS Lambda + S3 for serverless image ingestion.
+HIPAA-compliant dental screening tool with RAG pipelines and GPT-4 vision. Next.js frontend handling protected health information with real-time AI feedback. Reduced manual interpretation time by **~60%**. AWS Lambda + S3 for serverless image ingestion.
 
 `Next.js` `GPT-4` `RAG` `AWS Lambda` `HIPAA`
 
@@ -173,26 +173,31 @@ Searches 20,000+ academic articles using sparse BM25 + dense SentenceTransformer
 
 ---
 
-## ✍️ Technical Writing — Medium
+## ✍️ Technical Writing
 
 | Article | Published |
 |:---|:---:|
-| [**When APIs Go Dark: Dockerized Uptime Monitor with Discord Alerts & CI/CD**](https://medium.com/@dipika.ranabhat2001/when-apis-go-dark-i-built-a-dockerized-uptime-monitor-with-discord-alerts-ci-cd-c54f055cfa2c) | Sep 2025 |
-| [**Dockerized Flask API and GitHub Actions with CI/CD (with Colima on Mac)**](https://medium.com/@dipika.ranabhat2001/dockerized-flask-api-and-github-actions-with-ci-cd-with-colima-on-mac-828ee22e4c0d) | Sep 2025 |
+| [When APIs Go Dark: Dockerized Uptime Monitor with Discord Alerts and CI/CD](https://medium.com/@dipika.ranabhat2001/when-apis-go-dark-i-built-a-dockerized-uptime-monitor-with-discord-alerts-ci-cd-c54f055cfa2c) | Sep 2025 |
+| [Dockerized Flask API and GitHub Actions with CI/CD (with Colima on Mac)](https://medium.com/@dipika.ranabhat2001/dockerized-flask-api-and-github-actions-with-ci-cd-with-colima-on-mac-828ee22e4c0d) | Sep 2025 |
 
 ---
 
 ## 💼 Experience
 
 <details open>
-<summary><b>Graduate Research Assistant · University of South Dakota &nbsp;·&nbsp; Aug 2024 – Present</b></summary>
+<summary><b>Graduate Research Assistant · University of South Dakota &nbsp;·&nbsp; Aug 2024 – May 2026</b></summary>
 <br>
 
-▸ Shipped the production frontend for **DentiMap** (Governor's Giant Vision Finalist) in Next.js under HIPAA compliance; reduced manual interpretation time for dental professionals by **~60%**
+▸ Shipped the production frontend for **DentiMap** (Governor's Giant Vision Finalist) in Next.js under HIPAA compliance; reduced manual interpretation time by **~60%**
+
 ▸ Designed event-driven serverless pipelines on AWS Lambda + S3 automating 5 stages of medical image ingestion, increasing throughput by **40%**
+
 ▸ Built a hybrid BM25 + semantic search system over 10,000+ academic papers; reduced literature review time from days to under one hour
+
 ▸ Integrated GPT-4 API for plain-language diagnostic summaries, expanding DentiMap's usable audience by **~3×**
-▸ Optimized React clinical dashboards via virtualized lists, memoization, and lazy-loaded charts — Lighthouse score improved from **54 → 91**, page load from 4.2s → 1.1s
+
+▸ Optimized React clinical dashboards via virtualized lists, memoization, and lazy-loaded charts; Lighthouse score from **54 → 91**, page load from 4.2s → 1.1s
+
 ▸ Implemented self-correcting RAG workflows (CARA) with LangGraph, autonomous query rewriting, and hallucination detection
 
 </details>
@@ -202,9 +207,13 @@ Searches 20,000+ academic articles using sparse BM25 + dense SentenceTransformer
 <br>
 
 ▸ Architected a full ordering platform for the Colorado restaurant market with Next.js + TypeScript; Stripe PCI-compliant checkout handling thousands of daily transactions
+
 ▸ Built a custom Printer API via direct TCP/IP hardware communication, eliminating third-party middleware and per-transaction fees
+
 ▸ Engineered FastAPI microservices with PostgreSQL + Redis caching sustaining **100,000+ concurrent users** at 99.9% uptime
+
 ▸ Built internal RAG copilots using Azure OpenAI APIs, improving operational efficiency by **25%** and model output precision by **20%**
+
 ▸ Reduced deployment time by **40%** via GitHub Actions + Docker CI/CD; boosted reliability **35%** through comprehensive PyTest suites
 
 </details>
@@ -214,33 +223,28 @@ Searches 20,000+ academic articles using sparse BM25 + dense SentenceTransformer
 <br>
 
 ▸ Built cross-platform web and mobile applications with Next.js + Flutter; reduced crash rates by **50%** through unified component architecture
-▸ Integrated NLP-based chatbots into mobile/web apps, increasing customer support automation by **35%**
+
+▸ Integrated NLP-based chatbots into mobile and web apps, increasing customer support automation by **35%**
+
 ▸ Architected Riverpod + Bloc mobile state management enabling real-time UI updates for complex enterprise interactions
+
 ▸ Built and integrated RESTful APIs with Firebase + SQL backends sustaining **99.9% uptime** in production
 
 </details>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=qubeena07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=qubeena07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&hide=stars"/>
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qubeena07&hide=html,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qubeena07&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qubeena07&hide=html,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qubeena07&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=qubeena07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 
 <br/>
 
