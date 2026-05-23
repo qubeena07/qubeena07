@@ -27,7 +27,7 @@
 
 I'm a **Software Engineer** and **AI/ML Engineer** who bridges production-grade systems with cutting-edge machine learning. Currently finishing my **Master's in Computer Science at the University of South Dakota**, I specialize in **RAG pipelines**, **agentic AI systems**, **distributed backend architecture**, and **full-stack product engineering**.
 
-From shipping HIPAA-compliant clinical AI tools to architecting microservices handling 100k+ concurrent users — I build systems that actually work at scale.
+From shipping HIPAA-compliant clinical AI tools to architecting microservices handling 100k+ concurrent users, I build systems that actually work at scale.
 
 When I'm not debugging LangGraph nodes or optimizing vector search pipelines, you'll find me **singing cover songs 🎤** or embracing my roots from **Nepal 🇳🇵**.
 
